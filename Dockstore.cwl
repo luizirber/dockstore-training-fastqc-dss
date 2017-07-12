@@ -34,6 +34,6 @@ outputs:
   report:
     type: Directory
     outputBinding:
-    glob: .
+      glob: .
 
 baseCommand: ["fastqc"]
